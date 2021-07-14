@@ -1,10 +1,3 @@
-"""
-This file is to practice how to make a 2048-playboard, exactly same question from FANOLab question set.
-Created by Justin Lee, 15/4/2020
-Progress: Completed, playable now. Finished at 11:14p.m.
-"""
-
-
 class Playboard2048:
     def __init__(self):
         self.row = 4
